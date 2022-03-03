@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vyketype
-- 👀 I’m interested in physics, 70s rock, classical music, and computer science.
-- 🌱 I’m fluent in Java and Python, and am currently learning Kotlin.
-- 💞️ I am currently a junior developer at @PixliesNet.
+- 👋 Hi, I’m vyketype, otherwise known as vPrototype_
+- 👀 I’m interested in physics, 70s rock, playing the piano, and computer science.
+- 🌱 I’m fluent in Java, Python, and Kotlin, though I prefer to use Java.
+- 💞️ I am currently a developer at [PixliesNet](https://github.com/PixliesEarth).
 - 📫 How to reach me: `vPrototype_#2235` (Discord)
 
 <!---
