@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vyketype, otherwise known as vPrototype_
+- 👋 Hi, I’m `vyketype`, otherwise known as `vPrototype_`.
 - 👀 I’m interested in physics, 70s rock, playing the piano, and computer science.
 - 🌱 I’m fluent in Java, Python, and Kotlin, though I prefer to use Java.
 - 💞️ I am currently a developer at [PixliesNet](https://github.com/PixliesEarth).
