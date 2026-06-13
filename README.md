@@ -1,3 +1,4 @@
-👋 Hi, I’m `vyketype`, a freelance Spigot/Java developer with over three years of experience in the field.
+Discord: `vyketype`
 
-💞️ Discord: `vyketype#3472`
+mcgill '31 
+program: med-p and md,cm
